@@ -3,10 +3,6 @@
   28 March 2020
   IDE: Repl.it 
   Program:  Physics Calculator
-
-  ADD SUB MENUS (SHOULD BE 4 MAIN MENUS)
-  STORE NUMERICAL ANSWER INTO A VARIABLE
-  MOVE FUNCTIONS INTO A SEPERATE HEADER
 */
 
 #include "functions.h"
@@ -21,4 +17,3 @@ int main()
 
   return 0;
 }
-
